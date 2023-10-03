@@ -30,6 +30,7 @@ public class Customer
         this.lastName = lastName;
     }
 
+    //デバッグしやすいように、これはちゃんと書いたほうが良さそう
     @Override
     public String toString()
     {
